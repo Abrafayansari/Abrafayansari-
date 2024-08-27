@@ -5,7 +5,7 @@ Hi there 👋 Its Abdul Rafay
 
 🌱 I’m currently learning MERN,Typescript,Nextjs
 
-👨‍💻 I’m currently persuing BS Software Engineering from Fast(Nuces) university
+👨‍💻 I’m currently persuing BS Software Engineering degree from National University of Computer and Emerging Sciences (Fast).
 
 👯 I’m looking to collaborate on Projects
 
