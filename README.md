@@ -5,7 +5,9 @@ Hi there 👋 Its Abdul Rafay
 
 🌱 I’m currently learning MERN,Typescript,Nextjs
 
-👯 I’m looking to collaborate onProjects
+👨‍💻 I’m currently persuing BS Software Engineering from Fast(Nuces) university
+
+👯 I’m looking to collaborate on Projects
 
 🤔 I’m looking for help with Full-stack-development
 
