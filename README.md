@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on MERN
 
- 🌱 I’m currently learning MERN,Typescript,Nextjs
+ 🌱 I’m currently learning MERN,Typescript,Nextjs,C,SQL
 
  👨‍💻 I’m currently persuing BS Software Engineering degree from National University of Computer and Emerging Sciences (Fast).
 
